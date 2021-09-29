@@ -1,0 +1,29 @@
+[
+    {
+        "Command": "https://www.youtube.com/feed/subscriptions",
+        "Description": "My youtube subs"
+    },
+    {
+        "Command": "C:\\Users\\g"
+    },
+    {
+        "Command": "C:\\Users\\g\\Dropbox\\AHK scripts"
+    },
+    {
+        "Command": "C:\\Users\\g\\Documents"
+    },
+    {
+        "Command": "C:\\Users\\g\\AppData\\Roaming"
+    },
+    {
+        "Command": "MouseMove, 1690, 980, 0",
+        "Description": "Move mouse ahk"
+    },
+    {
+        "Command": "a = 5",
+        "Description": "assign value to variable"
+    },
+    {
+        "Command" : "C:\\Users\\g\\Programs\\NimbleText.exe"
+    }
+]
